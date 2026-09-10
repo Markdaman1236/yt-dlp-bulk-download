@@ -26,7 +26,7 @@ Search YouTube by keyword/category, pick videos from a list, and download them w
 
 
 
-git clone https://github.com/YOUR\_USERNAME/yt-search-download.git
+git clone https://github.com/Markdaman1236/yt-search-download.git
 
 cd yt-search-download
 
@@ -57,10 +57,4 @@ pip install -r requirements.txt
 
 
 (Linux Fedora) sudo dnf install ffmpeg
-
-
-
-
-
-
 
