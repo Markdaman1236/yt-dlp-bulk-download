@@ -26,7 +26,7 @@ Search YouTube by keyword/category, pick videos from a list, and download them w
 
 
 
-git clone https://github.com/Markdaman1236/yt-search-download.git
+git clone https://github.com/Markdaman1236/yt-dlp-bulk-download.git
 
 cd yt-search-download
 
